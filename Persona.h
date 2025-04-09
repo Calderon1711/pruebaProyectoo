@@ -25,6 +25,11 @@ private:
 
     }
 
+    void jefeboss (){
+      cout << "unodos";
+    }
+
+
     //Cambios master.
 
 };
