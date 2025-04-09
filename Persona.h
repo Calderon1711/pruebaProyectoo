@@ -14,6 +14,7 @@ private:
   string name;
   public:
     Persona();
+    ~Persona();
 };
 
 
