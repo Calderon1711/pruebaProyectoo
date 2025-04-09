@@ -29,9 +29,19 @@ private:
       cout << "unodos";
     }
 
-
     //Cambios master.
+  void jefeb1oss (){
+      cout << "334";
+    }
 
+  void jefeb143oss (){
+      cout << "365445543";
+    }
+
+  void jefeb34433443343oss (){
+      cout << "435345345";
+    }
+  //Fin aca.
 };
 
 
