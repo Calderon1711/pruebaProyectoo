@@ -10,11 +10,18 @@ using namespace std;
 
 class Persona {
 private:
-  int id;
+  string id;
   string name;
   public:
-    Persona();
-    ~Persona();
+    Persona() {
+
+    }
+    ~Persona() {
+
+    }
+    void setIDPersona(string& r){
+      this->id = r;
+      }
 };
 
 
