@@ -8,5 +8,6 @@ Prueba::Prueba(int p, int n){
   this->num = n;
 }
 Prueba::~Prueba(){
-
 }
+
+

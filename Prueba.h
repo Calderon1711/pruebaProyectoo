@@ -5,7 +5,8 @@
 #ifndef PRUEBA_H
 #define PRUEBA_H
 
-
+#include <iostream>
+using namespace std;
 
 class Prueba {
 private:
@@ -21,6 +22,9 @@ private:
  int getPrueba();
  int getNum();
 
+ void quieroAlgo (){
+ cout << "hola" << endl;
+ }
 
 };
 
