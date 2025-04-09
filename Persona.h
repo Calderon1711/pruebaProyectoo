@@ -10,11 +10,23 @@ using namespace std;
 
 class Persona {
 private:
-  int id;
+  string cedula;
   string name;
   public:
-    Persona();
-    ~Persona();
+    Persona(){
+
+    }
+    Persona(string cedula, string name){
+      this->cedula = cedula;
+      this->name = name;
+
+    }
+    ~Persona(){
+
+    }
+
+    //Cambios master.
+
 };
 
 
